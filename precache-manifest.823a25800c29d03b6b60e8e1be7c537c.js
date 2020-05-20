@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/AddToHomeScreen.js"
   },
   {
-    "revision": "7936b4076c11275f4c6a24276de7f9ed",
+    "revision": "bad723dfb700cd0667ac8bf6d5b3b583",
     "url": "/js/FuckWeixin.js"
   },
   {
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "f7baa0a801ecfb622d2f0937ee286aff",
+    "revision": "8c997ac1a460c1dacbf0fbd525a700ee",
     "url": "/styles/main.css"
   }
 ]);

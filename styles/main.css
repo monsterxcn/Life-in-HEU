@@ -3,6 +3,9 @@ body {
   user-select: none;
   overflow-x: hidden;
 }
+html::-webkit-scrollbar {
+  display:none;
+}
 #web_bg {
   background-position: center !important;
 }
