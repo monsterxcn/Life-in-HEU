@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5382f5f4102e2b7b36e100fb4fd42116.js"
+  "/precache-manifest.34ad55b2cd61b2d0e352a6aa45db1648.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "life-in-nju"});
+workbox.core.setCacheNameDetails({prefix: "life-in-heu"});
 
 workbox.core.skipWaiting();
 

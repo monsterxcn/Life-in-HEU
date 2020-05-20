@@ -60,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/iconfont.woff2"
   },
   {
-    "revision": "4f4531de8da4f880dbd12d5ac408fec5",
+    "revision": "7ab1144bae81350aef524794a80f8a98",
     "url": "/index.html"
   },
   {
