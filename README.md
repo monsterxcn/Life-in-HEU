@@ -15,11 +15,15 @@ HEUer 专属导航页 - 衍生自南哪指南
 * 可切换谷歌 / 必应 / 百度搜索
 * 哈工程相关资源网站整理
 * PWA 缓存技术，快速加载
-* [新增] 适用于 Fork 仓库的 GitHub Actions
-* [修改] 腾讯内置浏览器提示
-* [修改] 尾部 div 简化
 
- - 投稿、建议或意见？ [Issue](https://gitee.com/TingleDev/HEU-Index/issues/new) 请
+本项目的一些修改：
+
+* [新增] 适用于 Fork 仓库的 GitHub Actions（雾
+* [修改] 规整文件夹路径，现在只有 css js fonts img 了
+* [修改] 腾讯内置浏览器提示，css 替换了丑丑的图片和遮罩
+* [修改] 尾部 div 简化，删掉了栏目较少时影响观感的尾部块
+
+ - 投稿、建议或意见？ [Issue](https://github.com/monsterxcn/Life-in-HEU/issues/new) 请
  - 贵校也想整一个？ Fork -> `public/data.json` 请
  - 开发与 Debug？ `yarn install|serve|lint|build` 请
 

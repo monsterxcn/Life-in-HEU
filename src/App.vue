@@ -142,8 +142,7 @@ import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
 const dataUrl = "https://cdn.monsterx.cn/HEU-Index/";
-const imgUrl =
-  dataUrl + "bg" + Math.floor(Math.random() * 10) + ".jpg";
+const imgUrl = dataUrl + "bg" + Math.floor(Math.random() * 10) + ".jpg";
 
 new Clipboard(".shareLink");
 Vue.use(Vuex);

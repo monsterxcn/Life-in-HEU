@@ -22,6 +22,7 @@ jobs:
       run: |
         yarn install
         yarn build
+        echo 'heu.today' > dist/CNAME
 
     - name: Deploy Build
       uses: docker://peaceiris/gh-pages:v2
