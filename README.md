@@ -15,8 +15,9 @@ HEUer 专属导航页 - 衍生自南哪指南
 * 可切换谷歌 / 必应 / 百度搜索
 * 哈工程相关资源网站整理
 * PWA 缓存技术，快速加载
-* [修改]腾讯内置浏览器提示
-* [修改]尾部 div 简化
+* [新增] 适用于 Fork 仓库的 GitHub Actions
+* [修改] 腾讯内置浏览器提示
+* [修改] 尾部 div 简化
 
  - 投稿、建议或意见？ [Issue](https://gitee.com/TingleDev/HEU-Index/issues/new) 请
  - 贵校也想整一个？ Fork -> `public/data.json` 请
