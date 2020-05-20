@@ -290,12 +290,17 @@
             {
                 "name": "idealclover",
                 "link": "https://idealclover.top",
-                "description": "NJU 项目发起人"
+                "description": "项目发起人"
+            },
+            {
+                "name": "毛若昕",
+                "link": "https://maorx.cn/",
+                "description": "项目的设计建议和图片摄影"
             },
             {
                 "name": "zgq354",
                 "link": "https://blog.izgq.net/",
-                "description": "NJU 项目性能优化"
+                "description": "项目性能优化"
             },
             {
                 "name": "MonsterX",
@@ -304,18 +309,18 @@
             },
             {
                 "name": "反馈建议",
-                "link": "https://gitee.com/TingleDev/HEU-Index/issues",
+                "link": "https://gitee.com/monsterxcn/Life-in-HEU/issues/new",
                 "description": "issues 反馈"
             },
             {
                 "name": "NJU 项目 GitHub 地址",
-                "link": "https://github.com/idealclover/life-in-nju",
+                "link": "https://github.com/idealclover/Life-in-NJU",
                 "description": "Life-in-NJU 源代码"
             },
             {
                 "name": "HEU 项目 Gitee 地址",
-                "link": "https://gitee.com/TingleDev/HEU-Index",
-                "description": "HEU-Index 源代码"
+                "link": "https://gitee.com/monsterxcn/Life-in-HEU",
+                "description": "Life-in-HEU 源代码"
             }
         ]
     }

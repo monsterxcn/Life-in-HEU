@@ -1,4 +1,4 @@
-<h1 align="center">HEU-Index</h1>
+<h1 align="center">HEUindex</h1>
 
 <div align="center">
 
