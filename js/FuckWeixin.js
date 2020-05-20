@@ -1,6 +1,6 @@
 function is_weixin() {
     var ua = navigator.userAgent.toLowerCase();
-    if (ua.match(/MicroMessenger/i) == "micromessenger" || ua.match(/ QQ/i) == " qq" ) {
+    if (ua.match(/MicroMessenger/i) == "micromessenger" || ua.match(/\sQQ/i) == " qq" ) {
         return true;
     } else {
         return false;
@@ -13,8 +13,7 @@ var winHeight = typeof window.innerHeight != 'undefined' ? window.innerHeight : 
 function loadHtml() {
     var div = document.createElement('div');
     div.id = 'weixin-tip';
-    // div.innerHTML = '<img src="<?php $this->options->themeUrl('assets/fuckweixin.png'); ?>" alt="微信打开"/>';
-    div.innerHTML = '<img src="https://i.loli.net/2019/06/25/5d11d9c19065848452.png" alt="微信打开"/>';
+    div.innerHTML = '<p>拒绝内置浏览器获取更佳浏览体验</p>';
     document.body.appendChild(div);
 }
 
@@ -31,7 +30,7 @@ function loadStyleText(cssText) {
     head.appendChild(style);
 }
 
-var cssText = "img{width: 100%; height: auto;} #weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); width: 100%; height:100%; z-index: 1050;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 5%;}";
+var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(225,225,0,0.5); filter:alpha(opacity=50); width: 100%; height:56px; z-index: 6;} #weixin-tip p{text-align: center; line-height: 56px; font-family: Roboto,sans-serif; font-size: 20px;}";
 if (isWeixin) {
     loadHtml();
     loadStyleText(cssText);

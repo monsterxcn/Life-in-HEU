@@ -1,26 +1,26 @@
 [
     {
-        "title": "萌新必读",
+        "title": "萌新必备",
         "items": [
             {
-                "name": "新生必看",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ecpz8l",
-                "description": "看了这些基本不用到处问人了"
+                "name": "官网",
+                "link": "http://www.hrbeu.edu.cn",
+                "description": "Harbin Engineering University"
             },
             {
-                "name": "统一身份认证",
-                "link": "https://authserver.nju.edu.cn/authserver/login",
-                "description": "初始账户学工号，初始密码身份证（全部或后6位）"
+                "name": "启航",
+                "link": "http://qihang.hrbeu.edu.cn/",
+                "description": "HEU 校团委消息平台"
             },
             {
-                "name": "校园网登录",
-                "link": "http://p.nju.edu.cn",
-                "description": "初始账户学工号，初始密码身份证（全部）"
+                "name": "学工",
+                "link": "http://xsc.hrbeu.edu.cn/",
+                "description": "HEU 学生工作消息平台"
             },
             {
-                "name": "公众号目录",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/chfp1l",
-                "description": "哦我的上帝啊，你毕业都不一定关注全了"
+                "name": "工学周报",
+                "link": "http://hrbeu.cuepa.cn/",
+                "description": "HEUer 自己的报刊"
             }
         ]
     },
@@ -28,59 +28,84 @@
         "title": "校园生活",
         "items": [
             {
-                "name": "衣食住行",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/nbmig7",
-                "description": "杂七杂八的生活服务"
+                "name": "学生会",
+                "link": "http://xsh.hrbeu.edu.cn/",
+                "description": "HEU 学生会"
             },
             {
-                "name": "医疗相关",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/rs2gzq",
-                "description": "身体健康第一位~"
+                "name": "学生组织",
+                "link": "http://qihang.hrbeu.edu.cn/xszz/list.htm",
+                "description": "HEU 团委学生组织"
             },
             {
-                "name": "实用服务",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/pydwn1",
-                "description": "各种学生组织的实用服务"
+                "name": "信息公开",
+                "link": "http://xxgk.hrbeu.edu.cn/",
+                "description": "学校都在忙些啥"
             },
             {
-                "name": "社团实践",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/osy13s",
-                "description": "社团、志愿、就业、创业相关"
+                "name": "采购信息",
+                "link": "http://heuzczx.hrbeu.edu.cn/sfw_cms/e?page=cms.index",
+                "description": "学校的钱都花到哪里去了"
             },
             {
-                "name": "宿舍相关",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/bau88f",
-                "description": "联系宿管、调宿事宜"
+                "name": "就业服务平台",
+                "link": "http://job.hrbeu.edu.cn/HrbeuJY/web",
+                "description": "今天哪家单位来招聘"
             },
             {
-                "name": "校园服务",
-                "link": "https://www.nju.edu.cn/3688/list.htm",
-                "description": "南大校历、各单位电话黄页"
+                "name": "校园卡服务平台",
+                "link": "http://ecard.hrbeu.edu.cn/",
+                "description": "我的余额呢？请问我的余额呢"
             },
             {
-                "name": "本科学工通讯录",
-                "link": "https://xgc.nju.edu.cn/1799/list.htm",
-                "description": "实在不行问问辅导员"
+                "name": "日常请假申请",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/CWWSYY/start",
+                "description": "什么？日常？不是的不是的"
             },
             {
-                "name": "小百合 BBS",
-                "link": "http://bbs.nju.edu.cn/",
-                "description": "求职信息、校长信箱比较有用"
+                "name": "学生活动申请",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/XSHDSQ/start",
+                "description": "带着学弟学妹们一起长见识"
             },
             {
-                "name": "学生服务",
-                "link": "http://xsgl.nju.edu.cn",
-                "description": "奖学金、勤工俭学等常用网站"
+                "name": "实验室管理",
+                "link": "http://lims.hrbeu.edu.cn/OLMSWeb/Indexmain.aspx",
+                "description": "（内网）物理、化学、电子实验等"
             },
             {
-                "name": "证件办理",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ubnps4",
-                "description": "校园卡、学生证、研究生证等（补）办理"
+                "name": "成绩查询",
+                "link": "https://edusys.wvpn.hrbeu.edu.cn/jsxsd/framework/xsMain.jsp",
+                "description": "（内网）这波啊，这波是喜出望外"
             },
             {
-                "name": "户籍管理",
-                "link": "https://bwc.nju.edu.cn/bszn/bmfw/index.html",
-                "description": "管理户口迁移等等事务"
+                "name": "课表查询",
+                "link": "https://edusys.wvpn.hrbeu.edu.cn/jsxsd/xskb/xskb_list.do?Ves632DSdyV=NEW_XSD_PYGL",
+                "description": "（内网）一直上课一直爽"
+            },
+            {
+                "name": "选课中心",
+                "link": "https://edusys.wvpn.hrbeu.edu.cn/jsxsd/xsxk/xklc_list.do?Ves632DSdyV=NEW_XSD_PYGL",
+                "description": "（内网）选课冲冲冲！"
+            },
+            {
+                "name": "学生证办理",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/DZXWxueshengzheng/start",
+                "description": "（内网）我的学生证又迷路了呜呜呜"
+            },
+            {
+                "name": "校园卡挂失",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/XYKGS/start",
+                "description": "（内网）我的校园卡也……"
+            },
+            {
+                "name": "报修申请",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/BXSQ/start",
+                "description": "（内网）听我说，这个不是我弄坏的"
+            },
+            {
+                "name": "财务报销",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/CWWSYY/start",
+                "description": "（内网）财务网上预约报销"
             }
         ]
     },
@@ -88,64 +113,84 @@
         "title": "学习科研",
         "items": [
             {
-                "name": "教务系统",
-                "link": "http://elite.nju.edu.cn/jiaowu/",
-                "description": "密码是大小写字母加数字"
+                "name": "本科生教育",
+                "link": "http://ugs.hrbeu.edu.cn/",
+                "description": "HEU 本科生院"
             },
             {
-                "name": "研究生学籍与教学管理系统",
-                "link": "http://pyb.nju.edu.cn/",
-                "description": "研究生版教务系统"
+                "name": "研究生教育",
+                "link": "http://yjsy.hrbeu.edu.cn/",
+                "description": "HEU 研究生院"
             },
             {
-                "name": "图书馆纸本检索",
-                "link": "http://opac.nju.edu.cn/#/Home",
-                "description": "快看看你想看的书它有没有、在哪找"
+                "name": "国际合作教育",
+                "link": "http://heucice.hrbeu.edu.cn/",
+                "description": "HEU 国际合作教育学院"
             },
             {
-                "name": "图书馆指南",
-                "link": "http://mooc1.chaoxing.com/zt/200026884.html",
-                "description": "图书馆出品的新生指南"
+                "name": "研究生系统",
+                "link": "https://yjs.wvpn.hrbeu.edu.cn/cas/CASLogin.ashx",
+                "description": "研究生教育培养与信息服务系统"
             },
             {
-                "name": "图书馆服务",
-                "link": "http://lib.nju.edu.cn/index.htm#Page3",
-                "description": "图书馆热门服务"
+                "name": "轻教平台",
+                "link": "https://qingj.wvpn.hrbeu.edu.cn/",
+                "description": "咱也没用过咱也不知道是啥"
             },
             {
-                "name": "图书馆电子资源",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/fmd1wl",
-                "description": "各类数据库、学术杂志免费下载"
+                "name": "教学资源",
+                "link": "http://www.heu.edu.cn/rcpy/jxzy.aspx",
+                "description": "HEU 人才培养教学资源"
             },
             {
-                "name": "研讨间预约",
-                "link": "http://lib.nju.edu.cn/rmfw/sbfw/yjxjyy.htm",
-                "description": "（需要校园网）在图书馆研讨间愉快地讨（wan）论（shua）"
+                "name": "中国知网",
+                "link": "https://www-cnki-net-443.wvpn.hrbeu.edu.cn/",
+                "description": "使用校园网免费查文献"
             },
             {
-                "name": "课程网站",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/sr0kbw",
-                "description": "各种课要用的网站，还有经典悦读电子书"
+                "name": "打印服务",
+                "link": "https://librf.wvpn.hrbeu.edu.cn/",
+                "description": "在校园打印点自助打印文件"
             },
             {
-                "name": "培养课表",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ysdgpd",
-                "description": "课表、培养计划、拔尖计划等"
+                "name": "校图书馆",
+                "link": "https://lib.wvpn.hrbeu.edu.cn/",
+                "description": "HEU 图书馆"
             },
             {
-                "name": "交换生系统",
-                "link": "http://elite.nju.edu.cn/exchangesystem/",
-                "description": "本科阶段交流生和访问学生的一些信息"
+                "name": "位置预约",
+                "link": "https://libic.wvpn.hrbeu.edu.cn/",
+                "description": "HEU 图书馆座位 / 研讨室预约"
             },
             {
-                "name": "国际交流合作处",
-                "link": "http://stuex.nju.edu.cn/",
-                "description": "交流交换的项目信息"
+                "name": "科研支持",
+                "link": "http://lib.hrbeu.edu.cn/6836/list.htm",
+                "description": "HEU 图书馆科研支持"
             },
             {
-                "name": "高性能计算中心",
-                "link": "https://hpc.nju.edu.cn/",
-                "description": "电脑不够算，快找HPC"
+                "name": "书刊检索",
+                "link": "http://202.118.176.18:8080/opac/search_adv.php#/index",
+                "description": "HEU 图书馆书目检索系统"
+            },
+            {
+                "name": "毕业创业补贴申请",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/BYCYBTSQ/start",
+                "description": "（内网）让学校做你坚实的后盾"
+            },
+            {
+                "name": "学籍管理",
+                "link": "https://edusys.wvpn.hrbeu.edu.cn/jsxsd/xsxj/xjxxgl.do?Ves632DSdyV=NEW_XSD_XJCJ",
+                "description": "（内网）学籍信息管理"
+            },
+            {
+                "name": "校外竞赛管理系统",
+                "link": "http://xwcs.hrbeu.edu.cn/HEUConStu/",
+                "description": "（内网）校外竞赛管理系统报名"
+            },
+            {
+                "name": "校外竞赛管理系统",
+                "link": "http://xwcs.hrbeu.edu.cn/HEUConStu/login_Adm.jsp",
+                "description": "（内网）校外竞赛管理系统管理"
             }
         ]
     },
@@ -153,154 +198,124 @@
         "title": "信息服务",
         "items": [
             {
-                "name": "南大APP",
-                "link": "https://oi.nju.edu.cn/21607/list.htm",
-                "description": "新版南大APP，集成各类常用功能"
+                "name": "HEU 移动校园",
+                "link": "http://app.hrbeu.edu.cn/",
+                "description": "HEU 官方手机 APP"
             },
             {
-                "name": "南大邮箱",
-                "link": "https://mail.smail.nju.edu.cn/",
-                "description": "全日制学生人手一个，可以用来薅免费教育版软件、教育优惠"
+                "name": "教学一体化服务平台",
+                "link": "https://edusys.wvpn.hrbeu.edu.cn/jsxsd/framework/xsMain.jsp",
+                "description": "学工号与身份证号后 6 位"
             },
             {
-                "name": "VPN客户端",
-                "link": "https://vpn.nju.edu.cn/",
-                "description": "VPN客户端，可以访问只有校园网才能访问的全部资源"
+                "name": "网上办事中心",
+                "link": "http://one.hrbeu.edu.cn/",
+                "description": "足不出寝办理业务"
             },
             {
-                "name": "VPN网页版",
-                "link": "https://vpn3.nju.edu.cn/",
-                "description": "无需下载客户端，可以访问只有校园网才能访问的全部资源"
+                "name": "上网客户端",
+                "link": "http://fwtg.hrbeu.edu.cn/_s16/2016/0922/c1208a75802/page.psp",
+                "description": "你也要和我一起公寓冲浪吗"
+            },
+            {
+                "name": "上网账号开户",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/XYWZHZC/start",
+                "description": "冲浪的价格是 4 英镑 60 便士"
+            },
+            {
+                "name": "学校邮箱申请",
+                "link": "https://one.wvpn.hrbeu.edu.cn/infoplus/form/GRYXSQ/start",
+                "description": "全日制大学生必备"
+            },
+            {
+                "name": "校电子邮件系统",
+                "link": "https://mail.hrbeu.edu.cn/",
+                "description": "薅免费教育版软件、教育优惠必备"
             },
             {
                 "name": "正版软件",
-                "link": "https://itsc.nju.edu.cn/zbrj/list.htm",
-                "description": "学校购买的常用正版系统和软件"
-            },
-            {
-                "name": "邮箱别名",
-                "link": "http://mailm.nju.edu.cn:8080",
-                "description": "学生邮箱一堆数字看起来一点也不时髦？试试这个"
-            },
-            {
-                "name": "Eduroam",
-                "link": "https://itsc.nju.edu.cn/21436/list.htm",
-                "description": "全球教育科研机构无线网络漫游"
-            },
-            {
-                "name": "校园卡网络自助服务系统",
-                "link": "https://oa.nju.edu.cn/ecard/",
-                "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
-            },
-            {
-                "name": "e-Science中心",
-                "link": "https://sci.nju.edu.cn/",
-                "description": "南大云盘、镜像、git、测速等服务"
+                "link": "https://zbrj.wvpn.hrbeu.edu.cn/",
+                "description": "别用破解了，咱也做正版用户"
             }
         ]
     },
     {
-        "title": "趣味南大",
+        "title": "启航资讯",
         "items": [
             {
-                "name": "招标办公室",
-                "link": "http://zb.nju.edu.cn/",
-                "description": "来看看学校最近又买了啥~"
+                "name": "媒体聚焦",
+                "link": "http://qihang.hrbeu.edu.cn/962/list.htm",
+                "description": "今天又是朴实无华且枯燥的一天"
             },
             {
-                "name": "数据中心",
-                "link": "https://data.nju.edu.cn",
-                "description": "可以看见一些令人脸红心跳的东西（需校园网）"
+                "name": "团情动态",
+                "link": "http://qihang.hrbeu.edu.cn/tqdt/list.htm",
+                "description": "看看团委最近又整了啥~"
             },
             {
-                "name": "网络电视",
-                "link": "http://tv.nju.edu.cn/",
-                "description": "（需要校园网）神奇的电视直播站"
+                "name": "青年经纬",
+                "link": "http://qihang.hrbeu.edu.cn/965/list.htm",
+                "description": "今天也要向高端玩家看齐呢"
+            },
+            {
+                "name": "热点调研",
+                "link": "http://qihang.hrbeu.edu.cn/rddy/list.htm",
+                "description": "等等，这里还有一份调查报告"
+            },
+            {
+                "name": "理事会讯",
+                "link": "http://qihang.hrbeu.edu.cn/964/list.htm",
+                "description": "最近有哪些会议举办"
+            },
+            {
+                "name": "基层团讯",
+                "link": "http://qihang.hrbeu.edu.cn/963/list.htm",
+                "description": "团委事务通告"
+            },
+            {
+                "name": "规章制度",
+                "link": "http://qihang.hrbeu.edu.cn/1288/list.htm",
+                "description": "校（青）字"
+            },
+            {
+                "name": "业务流程",
+                "link": "http://qihang.hrbeu.edu.cn/1888/list.htm",
+                "description": "活动申请办法"
             }
         ]
     },
     {
-        "title": "学生项目",
-        "items": [
-            {
-                "name": "南哪指南",
-                "link": "https://github.com/idealclover/life-in-nju",
-                "description": "就是本项目！"
-            },
-            {
-                "name": "南哪课表",
-                "link": "https://m3w.cn/nnkbgkd",
-                "description": "南哪人的专属课程表 APP"
-            },
-            {
-                "name": "南京大学学位论文XeLaTeX模板",
-                "link": "https://github.com/Haixing-Hu/nju-thesis",
-                "description": "毕业论文的XeLaTeX模板"
-            },
-            {
-                "name": "南京大学本科毕业论文Latex模板",
-                "link": "https://github.com/ZLCao/NJUBachelor",
-                "description": "本科毕业论文的Latex模板"
-            },
-            {
-                "name": "课程评估自动化",
-                "link": "https://fuck.idealclover.cn/",
-                "description": "每学期的课程评估简直噩梦"
-            }
-        ]
-    },
-    {
-        "title": "投稿建议",
-        "items": [
-            {
-                "name": "讨论群",
-                "link": "https://jq.qq.com/?_wv=1027&k=5hsPQa6",
-                "description": "加入讨论群提出意见建议！"
-            },
-            {
-                "name": "投稿与建议",
-                "link": "https://github.com/idealclover/life-in-nju/issues",
-                "description": "在这里新建 issues"
-            },
-            {
-                "name": "项目 GitHub 地址",
-                "link": "https://github.com/idealclover/life-in-nju",
-                "description": "网站的源代码存放于此"
-            }
-        ]
-    },
-    {
-        "title": "友情链接",
+        "title": "项目反馈",
         "items": [
             {
                 "name": "idealclover",
                 "link": "https://idealclover.top",
-                "description": "@idealclover 是本项目的发起人"
-            },
-            {
-                "name": "毛若昕",
-                "link": "https://maorx.cn/",
-                "description": "@毛若昕 负责本项目的设计建议和背景图片摄影"
-            },
-            {
-                "name": "LadderOperator",
-                "link": "https://ladderoperator.top/",
-                "description": "@LadderOperator 负责本项目的数据整理"
-            },
-            {
-                "name": "GeRongcun",
-                "link": "http://www.gerongcun.xyz/blog/",
-                "description": "@GeRongcun 共同参与本项目的数据整理"
+                "description": "NJU 项目发起人"
             },
             {
                 "name": "zgq354",
                 "link": "https://blog.izgq.net/",
-                "description": "@zgq354 负责本项目的性能优化"
+                "description": "NJU 项目性能优化"
             },
             {
-                "name": "赞助我们",
-                "link": "https://donate.idealclover.cn/",
-                "description": "来请我们吃棒棒糖！"
+                "name": "MonsterX",
+                "link": "https://monsterx.cn/",
+                "description": "HEU 项目数据整理"
+            },
+            {
+                "name": "反馈建议",
+                "link": "https://gitee.com/TingleDev/HEU-Index/issues",
+                "description": "issues 反馈"
+            },
+            {
+                "name": "NJU 项目 GitHub 地址",
+                "link": "https://github.com/idealclover/life-in-nju",
+                "description": "Life-in-NJU 源代码"
+            },
+            {
+                "name": "HEU 项目 Gitee 地址",
+                "link": "https://gitee.com/TingleDev/HEU-Index",
+                "description": "HEU-Index 源代码"
             }
         ]
     }

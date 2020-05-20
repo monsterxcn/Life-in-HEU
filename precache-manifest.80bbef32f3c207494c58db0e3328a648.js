@@ -1,19 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecb1fff7c65189c1e042",
+    "revision": "848a91a4dcd27478a3ba",
     "url": "/css/chunk-vendors.234d33b2.css"
   },
   {
-    "revision": "d7c7d1d9e244bdecdc425eaf98d489a2",
+    "revision": "35b6a7c4a796e391511cc09ae04da5ba",
     "url": "/data.json"
-  },
-  {
-    "revision": "31103ad158e19b978f7e730ff5ac959b",
-    "url": "/font/demo.css"
-  },
-  {
-    "revision": "4420b689dabdbf68a1b5670c6dc23f86",
-    "url": "/font/demo_index.html"
   },
   {
     "revision": "458ca481fe9fb56d68cd506559e4921e",
@@ -64,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "c91286c6dfcbaba7ac18f83c055d87b1",
+    "revision": "a2eb04be8cc92d3bbaf17de0bef01313",
     "url": "/index.html"
   },
   {
@@ -72,19 +64,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/AddToHomeScreen.js"
   },
   {
-    "revision": "0774e2c52be3bed0d18cae4606c54638",
+    "revision": "7936b4076c11275f4c6a24276de7f9ed",
     "url": "/js/FuckWeixin.js"
   },
   {
-    "revision": "f1afc2cb8403f6d06b8f",
-    "url": "/js/app.8e0879ac.js"
+    "revision": "9f36040f6dba74486432",
+    "url": "/js/app.b2e05a26.js"
   },
   {
-    "revision": "ecb1fff7c65189c1e042",
-    "url": "/js/chunk-vendors.d4933ad8.js"
+    "revision": "848a91a4dcd27478a3ba",
+    "url": "/js/chunk-vendors.5457efb4.js"
   },
   {
-    "revision": "87af9111d4ce2e17a9c7ec443076dc00",
+    "revision": "ad2a9fb28f63700ca8a331b9cb392f7a",
     "url": "/manifest.json"
   },
   {
