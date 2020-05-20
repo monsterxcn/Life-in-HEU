@@ -30,7 +30,7 @@ function loadStyleText(cssText) {
     head.appendChild(style);
 }
 
-var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(225,225,0,0.5); filter:alpha(opacity=50); width: 100%; height:56px; z-index: 6;} #weixin-tip p{text-align: center; line-height: 56px; font-family: Roboto,sans-serif; font-size: 20px;}";
+var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(207, 211, 215, 0.8); filter:alpha(opacity=80); width: 100%; height:56px; z-index: 6;} #weixin-tip p{text-align: center; line-height: 56px; font-family: Roboto,sans-serif; font-size: 20px; font-weight: 600; color: #d73a4a;}";
 if (isWeixin) {
     loadHtml();
     loadStyleText(cssText);
