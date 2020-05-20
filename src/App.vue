@@ -2,17 +2,17 @@
   <v-app style="background: rgba(0,0,0,0);">
     <div id="web_bg" :style="'background-image: url(' + imgUrl + ');'"></div>
     <v-app-bar app color="rgba(0,0,0,.2)" dark flat fixed>
-      <v-toolbar-title>Life In NJU</v-toolbar-title>
+      <v-toolbar-title>HEUindex</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-icon
-        @click="open('https://github.com/idealclover/Life-in-NJU')"
+        @click="open('https://github.com/monsterxcn/Life-in-HEU')"
         class="mx-3"
       >
         mdi-github
       </v-icon>
       <v-icon
         class="shareLink"
-        data-clipboard-text="https://nju.today"
+        data-clipboard-text="https://heu.today"
         @click="share"
       >
         mdi-open-in-new
@@ -123,16 +123,6 @@
           </v-expansion-panel>
         </v-expansion-panels>
       </v-container>
-      <v-col
-        class="text-center white--text"
-        style="background-color: rgba(0,0,0,.2);"
-        cols="12"
-      >
-        ©{{ new Date().getFullYear() }}
-        <a href="https://idealclover.top" class="white--text" target="_blank"
-          >idealclover</a
-        >
-      </v-col>
       <v-snackbar v-model="snackbar">
         {{ snackText }}
         <v-btn color="pink" text @click="snackbar = false">
@@ -151,9 +141,9 @@ import createPersiste from "vue-savedata";
 import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
-const dataUrl = "https://image.idealclover.cn/projects/Life-in-NJU/";
+const dataUrl = "https://cdn.monsterx.cn/HEU-Index/";
 const imgUrl =
-  dataUrl + "background/bg" + Math.floor(Math.random() * 10) + ".jpg";
+  dataUrl + "bg" + Math.floor(Math.random() * 10) + ".jpg";
 
 new Clipboard(".shareLink");
 Vue.use(Vuex);
@@ -209,11 +199,11 @@ export default {
     },
     share: function() {
       nativeShare.setShareData({
-        icon: "https://nju.today/img/icons/android-chrome-192x192.png",
-        link: "https://nju.today",
-        title: "南哪指南",
-        desc: "南哪人的专属导航页！",
-        from: "@idealclover"
+        icon: "https://heu.today/img/icons/android-chrome-192x192.png",
+        link: "https://heu.today",
+        title: "HEUindex",
+        desc: "HEUer 专属导航页！",
+        from: "@monsterxcn"
       });
 
       // 唤起浏览器原生分享组件(如果在微信中不会唤起，此时call方法只会设置文案。类似setShareData)
