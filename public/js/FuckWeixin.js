@@ -13,7 +13,7 @@ var winHeight = typeof window.innerHeight != 'undefined' ? window.innerHeight : 
 function loadHtml() {
     var div = document.createElement('div');
     div.id = 'weixin-tip';
-    div.innerHTML = '<p>拒绝内置浏览器获取最佳浏览体验</p>';
+    div.innerHTML = '<p>拒绝内置浏览器，获取最佳浏览体验</p>';
     document.body.appendChild(div);
 }
 
