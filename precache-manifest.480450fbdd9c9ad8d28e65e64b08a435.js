@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/main.css"
   },
   {
-    "revision": "5aa1c6cf9ee798d7e896a0aca3275586",
+    "revision": "8207bb970155898bba3f671a9db48fc1",
     "url": "/data.json"
   },
   {
@@ -60,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/iconfont.woff2"
   },
   {
-    "revision": "c9af8d6c1567cab6138d43393c2c3ebc",
+    "revision": "2df1efbd33bdb3c01b466a8b7829b9c3",
     "url": "/index.html"
   },
   {
@@ -68,12 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/AddToHomeScreen.js"
   },
   {
-    "revision": "3c6beceb300214e168dd45180868efc9",
+    "revision": "44707ff4f0048eb46520093fcea35500",
     "url": "/js/FuckWeixin.js"
   },
   {
-    "revision": "ff2bb556886538db475a",
-    "url": "/js/app.246aa6bc.js"
+    "revision": "91d1874cf519c26d86ed",
+    "url": "/js/app.9f4e2e67.js"
   },
   {
     "revision": "ae0e68cd907699588ca4",
