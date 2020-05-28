@@ -144,8 +144,8 @@
             },
             {
                 "name": "中国知网",
-                "link": "https://www-cnki-net-443.wvpn.hrbeu.edu.cn/",
-                "description": "使用校园网免费查文献"
+                "link": "https://fsso.cnki.net/Shibboleth.sso/Login?entityID=https://idp.hrbeu.edu.cn/idp/shibboleth&target=https://fsso.cnki.net/secure/default.aspx",
+                "description": "校外亦可免费查文献"
             },
             {
                 "name": "打印服务",
