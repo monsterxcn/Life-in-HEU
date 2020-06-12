@@ -1,0 +1,10 @@
+name = "cfheu"
+type = "webpack"
+account_id = "c061f1cd2f49dcccce2a820601e6bac2"
+workers_dev = false
+route = "my.heu.today/*"
+zone_id = "11be0036391cb598c325867c665b27a7"
+
+[site]
+bucket = "./dist"
+entry-point = "workers-site"
