@@ -25,9 +25,9 @@ HEUer 专属导航页 - 衍生自南哪指南
 * [修改] 腾讯内置浏览器提示，css 替换了丑丑的图片和遮罩
 * [修改] 尾部 div 简化，删掉了栏目较少时影响观感的尾部块
 
-~~https://heu.today 托管于 GitHub Pages，在 Cloudflare CDN 加持下国内首次访问速度依旧十分不理想，没有具备一个导航页该有的速度，预计将在 8 月初优化该问题~~。当前部署于 Cloudflare Workers Sites，国内访问还可以使用 hi.monsterx.cn，部署于腾讯云和阿里云节点。
+~~https://heu.today 托管于 GitHub Pages，在 Cloudflare CDN 加持下国内首次访问速度依旧十分不理想，预计将在 8 月初优化该问题~~。当前部署于 Cloudflare Workers Sites，国内访问还可以使用 https://hi.monsterx.cn ，部署于腾讯云和阿里云。
 
-在首次加载完成后，强烈建议不要删除 heu.today 站点缓存数据，这能带来二次访问 90% 极速加载体验，以及神奇的离线访问。
+在首次加载完成后，建议不要删除 heu.today 站点缓存，这能带来二次访问 90% 极速加载体验，以及离线可用。
 
 接下来，此项目将跟进 NJU 主项目并优化 data.json 以求 HEUer 最佳体验。
 
@@ -35,7 +35,8 @@ HEUer 专属导航页 - 衍生自南哪指南
  - 贵校也想整一个？ Fork -> `public/data.json` 请
  - 开发与 Debug？ `yarn install|serve|lint|build` 请
 
-## Cloudflare Workers Sites
+
+<details><summary><b>Cloudflare Workers Sites 部署指北</b></summary><br>
 
 参考《[将 Hexo 部署到 Cloudflare Workers Site 上的趟坑记录 | Sukka's Blog](https://blog.skk.moe/post/deploy-blog-to-cf-workers-site/#%E8%87%AA%E5%AE%9A%E4%B9%89-Cloudflare-Workers-Site-%E7%9A%84%E8%A1%8C%E4%B8%BA)》，本仓库尝试将导航页部署至 Cloudflare Workers Sites 以提升浏览体验。注意这需要开启 Workers Unlimited （每月 5 美元），如需体验可邮件联系我获取测试 Workers Unlimited 域名。
 
@@ -78,6 +79,9 @@ account_id = "c061f1cd........."
 bucket = "./dist"
 entry-point = "workers-site"
 ```
+
+</details>
+
 
 ## LICENSE
 
