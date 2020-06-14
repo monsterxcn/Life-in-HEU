@@ -141,7 +141,7 @@ import createPersiste from "vue-savedata";
 import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
-const dataUrl = "https://cdn.monsterx.cn/HEU-Index/";
+const dataUrl = "https://tingle.dev/img/";
 const imgUrl = dataUrl + "bg" + Math.floor(Math.random() * 15) + ".jpg";
 
 new Clipboard(".shareLink");
