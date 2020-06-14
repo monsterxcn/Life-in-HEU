@@ -1,8 +1,8 @@
-name = "cfheu"
+name = "my-heu"
 type = "webpack"
 account_id = "c061f1cd2f49dcccce2a820601e6bac2"
 workers_dev = false
-route = "my.heu.today/*"
+route = "heu.today/*"
 zone_id = "11be0036391cb598c325867c665b27a7"
 
 [site]
