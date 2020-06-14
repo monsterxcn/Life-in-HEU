@@ -60,7 +60,67 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/iconfont.woff2"
   },
   {
-    "revision": "5acb0f4eae28a83a65f2fd1275076fd7",
+    "revision": "76a16bdac6796a0275b1b2cca6b2a8e3",
+    "url": "/img/bg0.jpg"
+  },
+  {
+    "revision": "4230d54859017f1718f320428752a0c4",
+    "url": "/img/bg1.jpg"
+  },
+  {
+    "revision": "5f7e881d3987df27f74a454a4719c543",
+    "url": "/img/bg10.jpg"
+  },
+  {
+    "revision": "34165bb285595fc13c439011201e6ce2",
+    "url": "/img/bg11.jpg"
+  },
+  {
+    "revision": "dda1ff1320a2c5e958b54196aeb1724c",
+    "url": "/img/bg12.jpg"
+  },
+  {
+    "revision": "193ad390dfae374bf2d083c1ddad20b2",
+    "url": "/img/bg13.jpg"
+  },
+  {
+    "revision": "f67b1bc6f9690e26b913c2338690fc41",
+    "url": "/img/bg14.jpg"
+  },
+  {
+    "revision": "98a6cc1c42325e865719da018f392ad4",
+    "url": "/img/bg2.jpg"
+  },
+  {
+    "revision": "e8cba09e9ed9a6bbd614c692adb0a75f",
+    "url": "/img/bg3.jpg"
+  },
+  {
+    "revision": "4e2e0d4fbfc474fe46804aba5fbdc3ad",
+    "url": "/img/bg4.jpg"
+  },
+  {
+    "revision": "e5164ed837cb1e4ae7c6398e53cfffa3",
+    "url": "/img/bg5.jpg"
+  },
+  {
+    "revision": "f99ccdfa956589f33a972435250b2ff0",
+    "url": "/img/bg6.jpg"
+  },
+  {
+    "revision": "646edeb732291a8c08a05947217efa9f",
+    "url": "/img/bg7.jpg"
+  },
+  {
+    "revision": "2580c81f68cf9e52924b6611e9bd9051",
+    "url": "/img/bg8.jpg"
+  },
+  {
+    "revision": "e3e78c4a9fe56c3d4673b2dde02145d8",
+    "url": "/img/bg9.jpg"
+  },
+  {
+    "revision": "f0ade8ea828dc53edb26a50180b2bad6",
     "url": "/index.html"
   },
   {
@@ -72,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/FuckWeixin.js"
   },
   {
-    "revision": "ef88495e44d4f24fd991",
-    "url": "/js/app.68968376.js"
+    "revision": "de3f6d4c487bfc31c1d9",
+    "url": "/js/app.2a942f0e.js"
   },
   {
     "revision": "ae0e68cd907699588ca4",
