@@ -22,7 +22,7 @@ jobs:
       - name: Cache node_modules
         uses: actions/cache@v1
         env:
-          cache-name: hexo-node-modules
+          cache-name: life-in-heu-node-modules
         with:
           path: node_modules
           key: ${{ runner.os }}-${{ env.cache-name }}-${{ hashFiles('package-lock.json') }}
@@ -37,9 +37,8 @@ jobs:
       
       - name: Install and Build
         run: |
-          yarn install
-          yarn build
-          echo 'heu.today' > dist/CNAME
+          npm install
+          npm run build
       
       - name: Deploy to Github Pages
         uses: docker://peaceiris/gh-pages:v2
