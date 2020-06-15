@@ -120,6 +120,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/bg9.jpg"
   },
   {
+    "revision": "c5193a1864fbc0d4aaaf1a165e519061",
+    "url": "/img/search/baidu-white.png"
+  },
+  {
+    "revision": "83eab325c4a0db0feddb196ec0243c54",
+    "url": "/img/search/bing-white.png"
+  },
+  {
+    "revision": "0af76faa9426bd1796ef617baf8df66f",
+    "url": "/img/search/google-white.png"
+  },
+  {
     "revision": "66549841cc12123237147632628f5b20",
     "url": "/index.html"
   },
