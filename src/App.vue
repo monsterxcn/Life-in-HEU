@@ -141,7 +141,7 @@ import createPersiste from "vue-savedata";
 import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
-const dataUrl = "https://tingle.dev/img/";
+const dataUrl = "https://heu.today/img/";
 const imgUrl = dataUrl + "bg" + Math.floor(Math.random() * 15) + ".jpg";
 
 new Clipboard(".shareLink");
