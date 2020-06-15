@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/bg9.jpg"
   },
   {
-    "revision": "f1c12278f862dc4582c853315acf5122",
+    "revision": "66549841cc12123237147632628f5b20",
     "url": "/index.html"
   },
   {
@@ -132,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/FuckWeixin.js"
   },
   {
-    "revision": "a17f2197dba271a3150a",
-    "url": "/js/app.6d9fe73a.js"
+    "revision": "00b6b816e1a6ba87822e",
+    "url": "/js/app.42d8df76.js"
   },
   {
     "revision": "5d24a156018558a8d7d2",
