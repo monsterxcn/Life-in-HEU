@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/search/google-white.png"
   },
   {
-    "revision": "f8dc7169c3aa5e740df2f93b499251b3",
+    "revision": "aac186e45fc03a0e003e21ea4db251fc",
     "url": "/index.html"
   },
   {
@@ -144,8 +144,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/FuckWeixin.js"
   },
   {
-    "revision": "faca999ef8d0d25439ce",
-    "url": "/js/app.7458f054.js"
+    "revision": "61a331ab246e10d19642",
+    "url": "/js/app.6cb72235.js"
   },
   {
     "revision": "5d24a156018558a8d7d2",
