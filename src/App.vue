@@ -141,7 +141,7 @@ import createPersiste from "vue-savedata";
 import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
-const dataUrl = "https://heu.today/img/";
+const dataUrl = "https://www.heu.today/img/";
 const imgUrl = dataUrl + "bg" + Math.floor(Math.random() * 15) + ".jpg";
 
 new Clipboard(".shareLink");
@@ -198,7 +198,7 @@ export default {
     },
     share: function() {
       nativeShare.setShareData({
-        icon: "https://heu.today/img/icons/android-chrome-192x192.png",
+        icon: "https://www.heu.today/img/icons/android-chrome-192x192.png",
         link: "https://heu.today",
         title: "HEUindex",
         desc: "HEUer 专属导航页！",

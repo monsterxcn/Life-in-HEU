@@ -29,8 +29,8 @@ HEUer 专属导航页 - 衍生自南哪指南
 
 本项目的部署地址：
 
-* https://heu.today 部署于 Cloudflare Workers Sites
-* https://hi.monsterx.cn 部署于腾讯云静态网站托管和阿里云全球 CDN。
+* https://heu.today 部署于 Vercel 并使用 Cloudflare CDN
+* https://hi.monsterx.cn 部署于腾讯云静态网站托管和阿里云全球 CDN
 
 本项目的其他说明：
 
@@ -41,9 +41,9 @@ HEUer 专属导航页 - 衍生自南哪指南
 
 <details><summary><b>Cloudflare Workers Sites 部署指北</b></summary><br>
 
-参考《[将 Hexo 部署到 Cloudflare Workers Site 上的趟坑记录 | Sukka's Blog](https://blog.skk.moe/post/deploy-blog-to-cf-workers-site/#%E8%87%AA%E5%AE%9A%E4%B9%89-Cloudflare-Workers-Site-%E7%9A%84%E8%A1%8C%E4%B8%BA)》，本仓库尝试将导航页部署至 Cloudflare Workers Sites 以提升浏览体验。注意这需要开启 Workers Unlimited （每月 5 美元），如需体验可邮件联系我获取测试 Workers Unlimited 域名。
+参考《[将 Hexo 部署到 Cloudflare Workers Site 上的趟坑记录 | Sukka's Blog](https://blog.skk.moe/post/deploy-blog-to-cf-workers-site/#%E8%87%AA%E5%AE%9A%E4%B9%89-Cloudflare-Workers-Site-%E7%9A%84%E8%A1%8C%E4%B8%BA)》，本仓库尝试将导航页部署至 Cloudflare Workers Sites 以提升浏览体验。注意这需要开启 Workers Unlimited （每月 5 美元）
 
-以下部署过程仅供参考。
+以下部署过程全部使用 [commit 55b0bb5](https://github.com/monsterxcn/Life-in-HEU/commit/55b0bb5b095c3af19f1f88f41075a617c6f2c599) 时的仓库文件（钱包不允许我继续订阅 Workers Unlimited 了呢），仅供参考。
 
  - 创建 Cloudflare 域名解析（可选）
 
