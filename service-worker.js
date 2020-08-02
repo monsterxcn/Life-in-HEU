@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.06bffc0190611682c1f831040d55ab6f.js"
+  "/precache-manifest.1d8bb61a7baf155c1a83f48bcb4933c7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "life-in-heu"});
